@@ -10,6 +10,7 @@ ENV/
 env/
 venv.bak/
 pybr-venv/
+Angela-env/
 
 # Distribution / packaging
 .Python
